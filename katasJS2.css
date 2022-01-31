@@ -12,7 +12,7 @@ body {
 }
 
 .active {
-    transition: opacity 1s;
+    transition: opacity 2s;
     opacity: 1;
     transform: scale(1)
 }
