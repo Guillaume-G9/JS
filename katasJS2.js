@@ -1,5 +1,5 @@
-let texte = "Bonjour Js"
+let text = "Bonjour Js"
 
-document.getElementById("titleText").innerHTML = texte;
+document.getElementById("titleText").innerHTML = text;
 
 titleText.classList.add("active");
