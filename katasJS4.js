@@ -1,12 +1,5 @@
-let image = getElementById("onclick")
+const fusion = document.getElementById('fusion');
 
-
-onclick.addEventListener("click", function() {
-
-
-    if (document.getElementById("imgClickAndChange").src == "./images/initial.jpg") {
-        document.getElementById("imgClickAndChange").src = "./images/final.png";
-    } else {
-        (document.getElementById("imgClickAndChange").src = "./images/final.png");
-    }
+fusion.addEventListener('click', function(fusion) {
+    fusion.target.classList.toggle('fusionOff');
 })

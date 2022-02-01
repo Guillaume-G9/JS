@@ -1,0 +1,28 @@
+/* p {
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+    align-items: center;
+    margin: auto;
+} */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 50vh;
+    padding-left: 8%;
+    ;
+}
+
+.fusionOn {
+    width: 500px;
+    height: 150px;
+    background: url("./images/initial.jpg") no-repeat;
+}
+
+.fusionOff {
+    width: 500px;
+    height: 150px;
+    background: url("./images/final.jpg") no-repeat;
+}
