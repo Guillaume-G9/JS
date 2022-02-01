@@ -11,18 +11,16 @@ body {
     justify-content: center;
     align-items: flex-end;
     height: 60vh;
-    padding-left: 8%;
-    ;
 }
 
 .fusionOn {
-    width: 500px;
-    height: 300px;
+    width: 1212px;
+    height: 567px;
     background: url("./images/initial.jpg") no-repeat;
 }
 
 .fusionOff {
-    width: 500px;
-    height: 300px;
+    width: 1212px;
+    height: 567px;
     background: url("./images/final.jpg") no-repeat;
 }
