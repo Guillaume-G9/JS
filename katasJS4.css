@@ -10,19 +10,19 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    height: 50vh;
+    height: 60vh;
     padding-left: 8%;
     ;
 }
 
 .fusionOn {
     width: 500px;
-    height: 150px;
+    height: 300px;
     background: url("./images/initial.jpg") no-repeat;
 }
 
 .fusionOff {
     width: 500px;
-    height: 150px;
+    height: 300px;
     background: url("./images/final.jpg") no-repeat;
 }
